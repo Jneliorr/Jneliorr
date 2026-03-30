@@ -19,10 +19,3 @@ Desenvolvo pipelines de dados ponta a ponta, unindo a visão de negócio da econ
   <a href="SEU_LINK_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="SEU_LINK_INSTAGRAM"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
-
----
-
-### 📊 Meus Projetos em Destaque
-- **[Análise do Cinema Nacional (ANCINE)](LINK_DO_REPO):** Pipeline completo com Airflow, dbt e Docker.
-- **[Dashboard de Dados Eleitorais](LINK_DO_REPO):** Visualização interativa de dados de eleições.
-- **[ETL CNPJ Federal Revenue](LINK_DO_REPO):** Processamento de grandes volumes de dados da Receita Federal.
