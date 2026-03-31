@@ -10,13 +10,12 @@ Minhas ferramentas principais incluem **Python, Airflow, Docker, dbt e PostgreSQ
 
 ### 🛠️ Minha Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,docker,bash,git,github,powershell,linux,notion" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,docker,bash,git,github" />
 </div>
 
-<br>
+
 
 ### 🔗 Conecte-se comigo
 <div align="center">
-  <a href="SEU_LINK_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="SEU_LINK_INSTAGRAM"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/joseneliorj/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
