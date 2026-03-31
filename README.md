@@ -15,7 +15,7 @@ Minhas ferramentas principais incluem **Python, Airflow, Docker, dbt e PostgreSQ
 
 
 
-### 🔗 Conecte-se comigo
+### 🔗 Minha Rede
 <div align="center">
   <a href="https://www.linkedin.com/in/joseneliorj/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
